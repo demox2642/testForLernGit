@@ -3,3 +3,7 @@ H1 {
     font-family: Verdana, Arial, Helvetica, sans-serif; /* Семейство шрифта */
     color: #336; /* Цвет текста */
    }
+body{
+ font-size:60px;
+ color:#634;
+}
